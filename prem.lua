@@ -172,7 +172,7 @@ local WEBHOOK_ENABLED = true
 local Window = VyperUI:CreateWindow({
     Title = "King Vypers | PREMIUM",
     Subtitle = "Enjoyyy",
-    Size = UDim2.new(0, 400, 0, 200)
+    Size = UDim2.new(0, 500, 0, 350)
 })
 
 do
@@ -3080,5 +3080,6 @@ VyperUI:CreateButton(AutoTotemSection, {
 
 print("✅ AUTO TOTEM 3D TRIANGLE FORMATION LOADED!")
 -- ========================================
+
 
 
